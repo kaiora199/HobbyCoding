@@ -1,0 +1,21 @@
+{
+    "dogs":[
+        
+            {
+                "id": 1,
+                "name": "jsondog1",
+                "age": 6
+            },
+            {
+                "id": 2,
+                "name": "jsondog2",
+                "age": 6
+            },
+            {
+                "id": 3,
+                "name": "jsondog3",
+                "age": 6
+            }
+        
+    ]
+}
